@@ -2,7 +2,7 @@
 Change your Discord custom status every 1 second (modifiable)
 
 ## Usage
-- Install Python
+- Install Python 3.x
 - Install requirements if you don't have those modules yet.
 ```
 pip install requests
