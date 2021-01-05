@@ -8,4 +8,5 @@ Change your Discord custom status every 1 second (modifiable)
 pip install requests
 pip install pywin32-ctypes
 ```
+- Put your token in token.txt, how to get your token: https://www.youtube.com/watch?v=YEgFvgg7ZPI
 - Run main.py
