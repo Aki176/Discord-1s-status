@@ -10,3 +10,6 @@ pip install pywin32-ctypes
 ```
 - Put your token in token.txt, how to get your token: https://www.youtube.com/watch?v=YEgFvgg7ZPI
 - Run main.py
+
+## Demo
+https://gyazo.com/7bb796e801936f25519702d07e4727a8
