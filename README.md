@@ -1,9 +1,10 @@
-# Discord-Custom-status
-Changes your Discord Custom status every 5 seconds.
+# Discord 1s status
+Change your Discord custom status every 1 second (modifiable)
 
 ## Usage
-Run these commands in CMD, terminal or PowerShell (if you don't already have these modules installed):
+- Install requirements if you don't have those modules yet.
 ```
 pip install requests
 pip install pywin32-ctypes
 ```
+- Run main.py
