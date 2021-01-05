@@ -1,7 +1,4 @@
-import requests 
-import time 
-import os 
-import ctypes from colorama import init, Fore; init()
+import requests, time, os, ctypes; from colorama import init, Fore; init()
 
 with open('token.txt', 'r', encoding='UTF-8') as f: token = f.read()
 num = 0
